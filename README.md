@@ -1,17 +1,9 @@
-# newbarcode2
+# BarCode &Qr code
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,![1](https://user-images.githubusercontent.com/106489090/174847512-f0a2df9a-bd5b-44cc-9196-aae7ab8d897f.jpg)
 ![1](https://user-images.githubusercontent.com/106489090/174847517-f7d1ab3f-da84-40ed-8a52-07cbaf27242c.png)
 ![2](https://user-images.githubusercontent.com/106489090/174847522-42ba03e6-abc3-4565-8791-b770f6731ec0.jpg)
